@@ -14,4 +14,4 @@
 
     (2) Please run 'Demo.m' file and view the results in the 'Results' folder.
 
-  For any questions, please contact hgjouc@126.com.
+    For any questions, please contact hgjouc@126.com.
