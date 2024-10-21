@@ -9,10 +9,10 @@
 
 2. The code has been tested on Windows 11 64bit with MATLAB 2019b.
 
-3.Usage:
+3. Usages:<br>
 
-    (1) Put the images into the 'Images' folder.
-
-    (2) Please run 'Demo.m' file and view the results in the 'Results' folder.
-
-    For any questions, please contact hgjouc@126.com.
+	(1) Put the images into the "Images" directory.<br>
+ 
+	(2) Please run “Demo.m” file and view the results in the 'Results' folder.<br>
+	
+	For any questions, please contact hgjouc@126.com.
